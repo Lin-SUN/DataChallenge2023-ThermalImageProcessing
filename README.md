@@ -1,1 +1,1 @@
-# DataChallenge2023-ThermalImageProcessing
+# DataChallenge2024-ThermalImageProcessing
